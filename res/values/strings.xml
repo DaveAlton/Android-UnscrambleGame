@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wordGuesser</string>
+    <string name="action_settings">Settings</string>
+    <string name="scrambledWordTextView"/>
+    <string name="scrambledWordLabel">Scrambled Word</string>
+    <string name="userGuessEditText"/>
+    <string name="userGuessLabel">Your Guess</string>
+    <string name="scoreLabel">Your Score</string>
+    <string name="score">0</string>
+    <string name="timerLabel">Timer</string>
+    <string name="timer">30</string>
+    <string name="levelLabel">Word Length</string>
+    <string name="levelTextView">3</string>
+
+</resources>
